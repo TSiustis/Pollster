@@ -1,2 +1,1 @@
-# Pollster
-Simple poll maker
+Simple poll maker made using PHP for server-side
